@@ -1,0 +1,22 @@
+,Result,overall,perc
+1,Failed Extraction,11,0.11
+2,Indeterminate,3099,30.99
+3,Invalid,71,0.71
+4,Negative,1304,13.04
+5,Negative-Inhibition,43,0.43
+6,NSL1,88,0.88
+7,NSL1 PV2,2,0.02
+8,Presumptive Poliovirus,415,4.15
+9,Presumptive Poliovirus-Inhibition,20,0.2
+10,PV2,138,1.38
+11,SL1,1790,17.9
+12,SL1 NSL1,34,0.34
+13,SL1 PV2,58,0.58
+14,SL3,1906,19.06
+15,SL3 NSL1,39,0.39
+16,SL3 NSL1 PV2,3,0.03
+17,SL3 PV2,87,0.87
+18,SL3 SL1,837,8.37
+19,SL3 SL1 NSL1,22,0.22
+20,SL3 SL1 PV2,33,0.33
+21,Total,10000,100
