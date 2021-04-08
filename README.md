@@ -5,5 +5,5 @@
 ![image](https://user-images.githubusercontent.com/58268664/114059983-ed46f700-9862-11eb-8d17-736d06194111.png)
 
 <br><br>
-# Alternate version treemap (treemap packages) <br>
+# Alternate version treemap (treemap package in R) <br>
 ![image](https://user-images.githubusercontent.com/58268664/114060185-1f585900-9863-11eb-91f9-e31254188a77.png)
